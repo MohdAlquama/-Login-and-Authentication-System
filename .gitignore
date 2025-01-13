@@ -1,15 +1,2 @@
-# Ignore environment files
-.env
-
-# Ignore Node modules
+# Ignore node_modules
 node_modules/
-
-# Ignore logs
-*.log
-
-# Ignore OS-specific files
-.DS_Store
-
-# Ignore IDE-specific files
-.vscode/
-.idea/
